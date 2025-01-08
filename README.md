@@ -1,0 +1,4 @@
+
+This project explores an innovative approach to controlling remote-controlled (RC) cars by leveraging computer vision and hand gesture recognition, offering an alternative to traditional control systems. Conventional RC car controllers typically rely on handheld devices with joysticks and triggers to manage speed and direction. In contrast, this project uses computer vision algorithms like OpenCV and hand gesture recognition libraries such as MediaPipe to create a more interactive and intuitive control method.
+
+Hand gesture control is implemented through MediaPipe, a Python library that identifies specific landmarks on different parts of the fingers. These landmarks are mapped to commands, enabling the RC car to move in the four cardinal directions (North, East, South, and West). This method provides an engaging and user-friendly way to interact with RC cars.
